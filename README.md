@@ -38,4 +38,5 @@ Program C++ sederhana untuk menyimpan dan menghitung gaji pegawai menggunakan st
 ---
 
 **luqmanaru**
+
 Program ini ditulis sebagai latihan struktur bersarang dalam bahasa pemrograman C++.
